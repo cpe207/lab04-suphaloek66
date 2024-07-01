@@ -6,6 +6,6 @@
 "outDir": "./" ,           // output directory (บันทึกไฟล์ *.js ที่เป็นผลลัพธ์ในโฟลเดอร์ใด)
 "removeComments": false ,   // remove comments
 "noEmitOnError": true     // don't emit if there is an error
-
   }
+  
 }

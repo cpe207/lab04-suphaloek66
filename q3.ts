@@ -1,7 +1,7 @@
 function primeNumber(a) {
-for(let i=0;i<a;i++){
-if(a/i != 0 ){return "YES";}
-else{return "NO";}
+for(let i=2;i<=a;i++){
+if(a%i == 0 && a != 2){return "NO";}
+else{return "YES";}
 }}
 
 const d1 = 10;
