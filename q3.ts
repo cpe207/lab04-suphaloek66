@@ -1,6 +1,8 @@
 function primeNumber(a) {
-  /* Your code here */
-}
+for(let i=0;i<a;i++){
+if(a/i != 0 ){return "YES";}
+else{return "NO";}
+}}
 
 const d1 = 10;
 const d2 = 29;
